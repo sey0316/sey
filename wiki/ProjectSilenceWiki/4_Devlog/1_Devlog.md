@@ -243,6 +243,10 @@
   - super/fullPlate 기획
 - **26.05.22**:
   - 몰입형 날짜표시 구현/적용
+  - Chapter title 구현/적용
+- **26.05.23**:
+  - Title, ChapterTitle 연출 개선
+- **26.05.24**:
   - super 임시구현/적용
   - fullPlate 임시구현/적용
   - 툴팁 명시적 방식으로 재구현/적용
